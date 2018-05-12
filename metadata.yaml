@@ -1,0 +1,30 @@
+_repo: Lost-in-the-Wilds-of-Brazil_43266
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43266-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foster, James H.
+    gutenberg_agent_id: '42097'
+    url: http://www.gutenberg.org/2009/agents/42097
+description: Intrepid pals Bob Holton and Joe Lewis were born with wanderlust pumping
+  through their veins. Their fathers are both in charge of landing precious art and
+  objects for major institutions in Washington, D.C., and the quest for the world's
+  most valuable artifacts takes them -- and their sons -- on adventures around the
+  globe. This tale takes the quartet to Brazil, where a jungle trek goes horribly
+  awry.
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Brazil -- Juvenile fiction'
+title: Lost in the Wilds of Brazil
+url: http://www.gutenberg.org/ebooks/43266
